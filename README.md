@@ -1,4 +1,4 @@
-Second Order Differential Power Analysis (DPA)
+Second Order Differential Power Analysis
 ================
 
 ### Introduction:
